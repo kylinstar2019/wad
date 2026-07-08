@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文章详情</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-container">
+    <header class="preview-header">
+      <button class="back-btn" id="backBtn" data-i18n="back">返回列表</button>
+      <div class="lang-switch">
+        <button class="lang-btn" data-lang="zh">中文</button>
+        <button class="lang-btn" data-lang="ja">日本語</button>
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn" data-lang="ar">العربية</button>
+      </div>
+    </header>
+    <article class="article-detail" id="articleDetail">
+      <div class="detail-loading" data-i18n="loading">加载中...</div>
+    </article>
+  </div>
+
+  <script>
+    window.__TEXTS__ = {"zh": {"title": "文章列表", "all": "全部", "loadMore": "加载更多", "noMore": "没有更多了", "back": "返回列表", "author": "作者", "date": "更新时间", "loading": "加载中…", "empty": "暂无文章", "missingId": "缺少文章 ID", "loadFail": "加载失败"}, "ja": {"title": "記事一覧", "all": "すべて", "loadMore": "続きを読む", "noMore": "これ以上ありません", "back": "一覧に戻る", "author": "著者", "date": "更新日", "loading": "読み込み中…", "empty": "記事がありません", "missingId": "記事IDがありません", "loadFail": "読み込み失敗"}, "en": {"title": "Articles", "all": "All", "loadMore": "Load More", "noMore": "No more articles", "back": "Back to List", "author": "Author", "date": "Updated", "loading": "Loading…", "empty": "No articles", "missingId": "Missing article ID", "loadFail": "Load failed"}, "ar": {"title": "قائمة المقالات", "all": "الكل", "loadMore": "عرض المزيد", "noMore": "لا يوجد المزيد", "back": "العودة للقائمة", "author": "المؤلف", "date": "تاريخ التحديث", "loading": "جاري التحميل…", "empty": "لا توجد مقالات", "missingId": "معرف المقال مفقود", "loadFail": "فشل التحميل"}};
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
