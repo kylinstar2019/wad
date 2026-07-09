@@ -82,7 +82,7 @@
       var loadMoreEl = document.getElementById('loadMore');
       var noMoreEl = document.getElementById('noMore');
       var currentTag = '';
-      var pageSize = 12;
+      var pageSize = window.__PAGE_SIZE__ || 12;
       var currentPage = 1;
 
       tags.forEach(function (tag) {
@@ -147,6 +147,21 @@
       loadMoreEl.querySelector('button').addEventListener('click', function () {
         currentPage += 1; render(false);
       });
+
+      // 分页导航
+      if (window.__PAGINATION__) {
+        var pg = window.__PAGINATION__;
+        var pgEl = document.createElement('div');
+        pgEl.className = 'pagination';
+        for (var i = 1; i <= pg.total; i++) {
+          var link = document.createElement('a');
+          link.className = 'page-link' + (i === pg.current ? ' active' : '');
+          link.href = 'page' + i + '.html';
+          link.textContent = i;
+          pgEl.appendChild(link);
+        }
+        noMoreEl.parentNode.insertBefore(pgEl, noMoreEl.nextSibling);
+      }
 
       render(true);
     })();

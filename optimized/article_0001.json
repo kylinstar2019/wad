@@ -1,0 +1,363 @@
+{
+  "_id": "article_0001",
+  "title": "意外成为播客主后，他做出了年入百万美元的播客SaaS",
+  "title_en": "Accidental Podcaster Builds Million-Dollar Podcast SaaS",
+  "title_jp": "偶然のポッドキャスターが年収100万ドルのポッドキャストSaaSを構築",
+  "title_ar": "صانع بودكاست بالصدفة يبني منصة SaaS للبودكاست تدر مليون دولار سنويا",
+  "carouselChartTitle": "意外成为播客主后，他做出了年入百万美元的播客SaaS",
+  "author": "阿星",
+  "thumbnail": "https://storage.googleapis.com/indie-hackers.appspot.com/post-images/0Q14jcBwVgBTTD6Q8o7l/vOqaQ3DJwYRP8MNEjUOSMger71w1/colin-gray-founder-of-alitu-.png",
+  "carouselChartURL": "https://storage.googleapis.com/indie-hackers.appspot.com/post-images/0Q14jcBwVgBTTD6Q8o7l/vOqaQ3DJwYRP8MNEjUOSMger71w1/colin-gray-founder-of-alitu-.png",
+  "ifShowInThumbnail": false,
+  "ifShowInLatestNewsSlider": false,
+  "ifShowInNewsSlider": false,
+  "content": "{\"ops\": [{\"insert\": \"意外成为播客主后，他做出了年入百万美元的播客SaaS\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 1}}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin Gray从没想过要靠播客赚钱。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"更没想过，这个\\\"意外\\\"能让他每年进账100万美元。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"说实话，他的故事听起来像段子——一个在爱丁堡大学教多媒体的老师，因为学校突然说\\\"要不你看看这个叫播客的新玩意？\\\"，结果一眼万年，掉进了播客的兔子洞。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"有时候，人生的转折点来得就是这么莫名其妙。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"天呐，这也太酷了吧\\\"\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": {\"image\": \"https://storage.googleapis.com/indie-hackers.appspot.com/post-images/0Q14jcBwVgBTTD6Q8o7l/vOqaQ3DJwYRP8MNEjUOSMger71w1/colin-gray-founder-of-alitu-.png\"}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"2014年，Colin还在为爱丁堡大学设计在线课程。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"某天系领导丢给他一个任务：研究播客，看看能不能用在教学里。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin当时的内心OS大概是：行吧，又是一个无聊的任务。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"结果当他真正接触播客后，整个人傻了。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"这是什么神仙东西？！\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"一个人，一支麦克风，就能把声音传到全世界。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"那种亲密感、那种人格魅力、那种随时随地的分享自由……Colin感觉像发现了新大陆。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他立刻开始写博客记录自己的播客学习过程——从选设备、录音技巧到发声训练。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"博客名字简单粗暴：ThePodcastHost.com（播客主持人）。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"讲真，他那时候根本没想过这东西能赚钱。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"就是纯粹觉得：太好玩了！\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"从3000美元到100万美元\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": \"博客写了两三年。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"慢慢有了读者，也有了收入——联盟营销（卖麦克风和设备）和赞助。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"月入大概3000美元。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"对当时的Colin来说，这已经是白捡的钱了。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"但他没停，开始推出在线课程教别人怎么做播客。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"接着又做制作服务——帮人剪音频、加音乐、调音质。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"然后，最戏剧性的一幕来了。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"读者开始疯狂问他：\\\"有没有工具能一键生成播客？\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"能不能自动化做音乐淡入、降噪、音量平衡？\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin发现，这才是真痛点。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"于是，他决定做一款SaaS产品——Alitu。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"一个\\\"傻瓜式\\\"播客制作工具。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"录完音，上传，系统自动搞定所有后期。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin说Alitu就是\\\"播客的教练\\\"。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"不是给用户一堆复杂选项（像那些臃肿的专业软件），而是告诉他们：就这样做，最简单的方法。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"创作者需要的不是更多功能，而是更少选择。\\\" Colin说。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"现在，Alitu服务2500个客户，年收入接近100万美元。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"还有一个叫Podcraft Academy的小社区，每年进账10万美元。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"花10万美元买来的血泪教训\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": \"但你们知道吗？这条路走得并不顺。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"最开始，Colin花了2.5万美元找人做原型。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"结果丑得一塌糊涂。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"得用命令行才能跑起来，界面难用到我自己都不想碰。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"后来又投入8万美元，折腾了一年，才做出能用的测试版。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"整整10万美元，他才看到自己的产品真正跑起来。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"这10万里，每一分钱都来自他的博客收入。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他说：\\\"这段日子就是一边养着内容生意，一边输血给软件。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"有趣的是，Colin不是技术背景。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他自己完全不懂编程，但硬是靠着找人、试错、再找人，把产品做出来了。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"很多时候，你不需要会写代码，你需要的是知道怎么找到对的人。\\\"\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"反直觉的产品哲学\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": \"Alitu的产品哲学很有意思，甚至有点\\\"反主流\\\"。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"竞品们都在做加法——加功能、加选项、加设置。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Alitu却在做减法。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin说：\\\"用户会要求更多功能，天天都有。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"但我们的立场很坚定：我们要教他们最简洁的工作流程，而不是让他们陷在复杂度里烧光精力。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他给创作者的建议是：限制反而是自由。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"当选择变少了，创作反而可持续了。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"这也是为什么Alitu的定价很简单——就一档订阅，包所有功能，不限使用。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"从最初的$28/月，涨到$32，再到现在的$38。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"有一说一，从32涨到38的时候，注册人数确实下降了。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"但收入没怎么变，就是服务的人在变少。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"长期来看，我觉得可能得不偿失——用户少了，品牌粉丝也少了。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他建议创业者：研究定价要趁早，别像我们拖太久，改起来代价巨大。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"内容营销的真相\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": \"Alitu的增长全靠内容营销。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"2016年上线时，靠的都是Colin那几年攒下的邮件列表——1万人，直接转化了首批50个客户。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"后来，他开始写大量针对\\\"播客编辑\\\"\\\"播客制作工具\\\"等关键词的文章。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"这些文章现在成了获客主力。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"还有联盟营销——早期30%的新客户都来自合作博客的推荐。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"最近AI搜索火了，很多人说内容营销已死。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin嗤之以鼻：\\\"扯淡。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"内容只是换了个形式——视频、音频都得做，但文字照样管用。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"再说了，AI内容不也得学人类的博客吗？\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他在Reddit也很活跃，定期做AMA。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"这不仅能直接触达用户，还能给AI搜索喂数据——Reddit内容可是AI的最爱。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"最有意思的是——很多人说是通过文章知道Alitu的，但真正掏钱是因为听了他的播客或看了YouTube视频。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"文章带来搜索流量，但让用户信任你的是能听见、能看见的你。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"播客尤其重要。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"用户花一两个小时听你说话，这种信任感是任何广告都买不到的。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"最核心的经验\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin说，这么多年他学到的最重要的一课：\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"做小、做快。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"每次开发新功能，都问自己：这个东西最简单版本是什么样？能不能一个月，甚至两周做出来？\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"做完了就上线，让用户反馈，再决定下一步。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"太多人构想太宏大，结果半年过去了还在'完美开发'中。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"他引用游戏公司Sierra创始人Ken Williams的话：\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"一小时的活真就一小时干完。四小时的活得干一天。一天的活得干一周。一周的活得干几个月。六个月以上的活儿……基本永远完不成。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"时间越长，不确定性越大。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"如果预估两周，说明里面藏着一堆你没意识到的坑。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin现在看到开发说\\\"这个得两周\\\"，就让他拆成4-8小时的小任务。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"拆不出来？那就再拆，直到每个小组件都清晰可控。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"最后聊几句\"}, {\"insert\": \"\\n\", \"attributes\": {\"header\": 2}}, {\"insert\": \"\\n\"}, {\"insert\": \"Colin说他们已经不设营收目标了。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"以前年年定目标，年年打脸。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"太多东西不归你控制。\\\"\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"现在他们只定可控的事：每周发几篇博客、录几个YouTube视频、客户满意度几分。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\\"控制过程，结果自然来。\\\"\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"对了，Colin大学学的是天体物理。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"后来因为数学太难，转行了。\"}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"有时候，人生走偏的那几步，恰恰把你带到了该去的地方。\", \"attributes\": {\"bold\": true}}, {\"insert\": \"\\n\"}, {\"insert\": \"\\n\"}, {\"insert\": \"**\"}]}",
+  "content_en": {
+    "ops": [
+      {
+        "insert": "Accidental Podcaster Builds Million-Dollar Podcast SaaS"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Colin Gray never expected to make money from podcasting."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "He certainly never imagined this 'accident' would earn him $1 million per year."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "His story sounds almost like fiction - a multimedia instructor at the University of Edinburgh, told by his department to 'check out this new thing called podcasting,' fell into the rabbit hole and never looked back."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Sometimes, life's turning points come out of nowhere."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "In 2014, Colin was still designing online courses for the university when a department head gave him an assignment: research podcasting and see if it could be used in teaching. Colin's internal reaction was probably: fine, another boring task. But when he actually engaged with podcasting, he was completely blown away. One person, one microphone, and you can broadcast your voice to the entire world. The intimacy, the personality, the freedom to share anytime, anywhere - Colin felt like he had discovered a new continent. He immediately started blogging about his podcasting learning journey, from equipment selection and recording techniques to vocal training. The blog name was straightforward: ThePodcastHost.com. He genuinely never thought it could make money at the time. He just thought it was incredibly fun."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "From $3,000 to $1 Million"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "The blog ran for two to three years, gradually building an audience and generating income through affiliate marketing - selling microphones and equipment - plus sponsorships. Monthly revenue hit around $3,000. For Colin at the time, this was free money. But he didn't stop there. He launched online courses teaching others how to podcast, then added production services - helping people edit audio, add music, and fine-tune sound quality. Then came the most dramatic turn. Readers started asking him frantically: 'Is there a tool that can generate podcasts with one click? Can you automate music fades, noise reduction, and volume balancing?' Colin realized this was the real pain point. So he decided to build a SaaS product: Alitu. A foolproof podcast production tool. Record your audio, upload it, and the system automatically handles all post-production. Colin describes Alitu as a 'podcast coach.' Instead of giving users a maze of complex options like bloated professional software, it tells them: do it this way, the simplest way. 'Creators don't need more features, they need fewer choices,' Colin says. Today, Alitu serves 2,500 customers with annual revenue approaching $1 million. Plus a small community called Podcraft Academy that brings in $100,000 per year."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "The $100,000 Lesson Learned in Blood and Tears"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "But it wasn't a smooth journey. Colin initially spent $25,000 hiring someone to build a prototype. The result was hideous. 'You had to use the command line to run it, and the interface was so bad I didn't even want to touch it myself.' He later invested another $80,000 and spent a full year before getting a usable beta version. That's a total of $100,000 before he even saw his product actually working. Every dollar of that $100,000 came from his blog revenue. 'That period was about feeding a software product while running a content business,' he recalls. Interestingly, Colin isn't technical. He doesn't know how to code at all, yet he managed to build a product through hiring, trial and error, and more hiring. 'Most of the time, you don't need to know how to code. You need to know how to find the right people.'"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Counter-Intuitive Product Philosophy"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Alitu's product philosophy is fascinating, even counter-mainstream. Competitors keep adding - more features, more options, more settings. Alitu keeps subtracting. Colin says: 'Users ask for more features every single day. But our position is firm: we want to teach them the simplest workflow, not let them burn out drowning in complexity.' His advice to creators: 'Constraints are actually freedom.' When choices become fewer, creation becomes sustainable. That's why Alitu's pricing is simple - one subscription tier covering all features with unlimited usage. From the initial $28/month, up to $32, and now $38. 'I'll be honest, when we raised from $32 to $38, signups did drop. But revenue didn't change much - we just served fewer people. In the long run, I think it might be a net negative - fewer users means fewer brand fans.' He advises founders: research pricing early. Don't delay like we did; the cost of changing is enormous."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "The Truth About Content Marketing"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Alitu's growth relies entirely on content marketing. When it launched in 2016, Colin leveraged the email list he had built over years - 10,000 people, converting to the first 50 customers. Later, he started writing heavily around keywords like 'podcast editing' and 'podcast production tools.' These articles are now the customer acquisition backbone. Plus affiliate marketing - early on, 30% of new customers came from partner blog recommendations. With the rise of AI search, many say content marketing is dead. Colin scoffs: 'Nonsense. Content just changed form - you have to do video and audio too, but text still works. Besides, doesn't AI content need human blogs to learn from?' He's also active on Reddit, doing regular AMAs. This not only connects directly with users but feeds AI search engines - Reddit content is AI's favorite food. The most interesting insight: many people say they discovered Alitu through articles, but actually paid because they listened to his podcast or watched his YouTube videos. 'Articles bring search traffic, but what makes users trust you is hearing you and seeing you.' Podcasting is particularly crucial. 'When users spend one or two hours listening to you talk, that level of trust is something no ad can buy.'"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "The Most Important Lesson"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Colin says the biggest lesson after all these years: build small, build fast. 'Every time you develop a new feature, ask yourself: what is the simplest version of this? Can it be done in a month, or even two weeks?' Ship it, let users give feedback, then decide next steps. 'Too many people conceive something grandiose, and six months later they're still in 'perfect development mode'.' He quotes Ken Williams, founder of game company Sierra: 'A one-hour job actually takes one hour. A four-hour job takes a full day. A day's job takes a week. A week's job takes months. Anything over six months... basically never gets finished.' The longer the timeline, the greater the uncertainty. If an estimate is two weeks, it means there are hidden pitfalls you haven't recognized. Colin now tells developers to break any two-week task into 4-8 hour subtasks. Can't break it down? Then break it further, until each component is clear and controllable."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Last Thoughts"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Colin says they no longer set revenue goals. 'We used to set targets every year, and every year we missed them. Too many things are beyond your control.' Now they only set goals for things they can control: how many blog posts per week, how many YouTube videos, customer satisfaction scores. 'Control the process, and results will come naturally.' By the way, Colin studied astrophysics in college. He later switched majors because the math was too hard. Sometimes, the detours in life are exactly what lead you to where you're meant to be."
+      }
+    ]
+  },
+  "content_jp": {
+    "ops": [
+      {
+        "insert": "偶然のポッドキャスターが年収100万ドルのポッドキャストSaaSを構築"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Colin Grayはポッドキャストでお金を稼ごうとは全く考えていなかった。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "ましてや、この「偶然」が年間100万ドルの収入をもたらすとは夢にも思わなかった。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "彼の話は冗談のように聞こえる——エディンバラ大学でマルチメディアを教えていた教師が、大学から「ポッドキャストという新しいものを調べてみて」と言われ、一瞬で心を奪われ、ポッドキャストのウサギ穴に落ちていった。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "人生の転機は、時としてこんなにも不思議に訪れるものだ。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "2014年、Colinはまだエディンバラ大学のオンラインコースを設計していた。ある日、学部長から「ポッドキャストを研究して教育に使えるか検討してくれ」という課題を渡された。Colinの内心はたぶん「はいはい、またつまらない課題か」という感じだった。しかし実際にポッドキャストに触れた時、彼は完全に衝撃を受けた。一人と一本のマイクがあれば、声を世界中に届けられる。その親密さ、人柄の魅力、いつでもどこでも共有できる自由——Colinは新大陸を発見したような感覚に陥った。彼はすぐにポッドキャスト学習の過程をブログに書き始めた——機材選びから録音テクニック、発声トレーニングまで。ブログ名は率直にThePodcastHost.com（ポッドキャストホスト）。正直なところ、その時はこれがお金になるとは全く考えていなかった。単純に楽しかっただけだ。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "3000ドルから100万ドルへ"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "ブログは2、3年続けた。徐々に読者がつき、収入も得られるようになった——アフィリエイトマーケティング（マイクや機材の販売）とスポンサー収入。月収は約3000ドル。当時のColinにとって、これは棚からぼた餅のようなお金だった。しかし彼は止まらず、ポッドキャストの作り方を教えるオンラインコースを提供し始めた。さらに制作サービスも追加——音声編集、音楽追加、音質調整の代行。そして最も劇的な場面が訪れる。読者から「ワンクリックでポッドキャストを生成できるツールはないのか？」「音楽のフェードイン・フェードアウト、ノイズ除去、音量バランスを自動化できないか？」という質問が殺到した。Colinはこれこそが本当のペインポイントだと気づいた。そこで彼はSaaS製品を作ることを決意——Alituだ。「バカでも使える」ポッドキャスト制作ツール。録音してアップロードすれば、システムが自動的にすべての後処理を行う。ColinはAlituを「ポッドキャストのコーチ」と表現する。ユーザーに複雑な選択肢を山ほど与えるのではなく（肥大化したプロ用ソフトのように）、最もシンプルな方法を教えるのだ。「クリエイターに必要なのは、より多くの機能ではなく、より少ない選択肢だ」とColinは言う。現在、Alituは2500の顧客にサービスを提供し、年間売上は100万ドルに迫っている。さらにPodcraft Academyという小さなコミュニティもあり、年間10万ドルの収入がある。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "10万ドルで買った血と涙の教訓"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "しかし、この道のりは決して平坦ではなかった。最初にColinは2.5万ドルをかけてプロトタイプを作った。結果はひどいものだった。「コマンドラインでしか動かず、インターフェースは自分でも触りたくないほど酷かった」その後さらに8万ドルを投入し、1年かけてようやく使えるベータ版ができた。合計10万ドルものお金を費やして、ようやく自分の製品が動くのを見ることができた。この10万ドルの1ドル1ドルはすべて彼のブログ収入から出たものだ。「あの時期は、コンテンツビジネスを育てながら、ソフトウェアに資金を注入し続ける日々だった」と彼は振り返る。面白いことに、Colinは技術バックグラウンドを持っていない。プログラミングは全くできないが、人を雇い、試行錯誤し、また人を雇うことで製品を作り上げた。「多くの場合、コードが書ける必要はない。必要なのは、適切な人を見つける方法を知ることだ」"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "直感に反するプロダクト哲学"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Alituのプロダクト哲学は非常に興味深く、ある意味「反主流」ですらある。競合他社は機能を追加し続けているのに、Alituは引き算をしている。Colinは言う：「ユーザーは毎日のように機能追加を求めてくる。しかし我々の立場は明確だ。最もシンプルなワークフローを教えたいのであって、複雑さに溺れさせてエネルギーを使い果たさせたくない」。彼のクリエイターへのアドバイス：「制限こそが自由だ」。選択肢が減れば、創作は持続可能になる。だからAlituの価格設定もシンプルだ——1つのサブスクリプションで全機能、使い放題。最初の月額28ドルから32ドルへ、そして今は38ドルに。「正直なところ、32から38に値上げした時は登録者数が減った。しかし収入自体はあまり変わらなかった——サービスを提供する人数が減っただけだ。長期的には、悪手だったかもしれない——ユーザーが減ればブランドファンも減る」。彼は起業家にアドバイスする：価格設定の研究は早めに。我々のように長く先延ばしにすると、変更の代償は莫大だ。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "コンテンツマーケティングの真実"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Alituの成長はすべてコンテンツマーケティングによるものだ。2016年のローンチ時は、Colinが数年かけて蓄積したメールリスト——1万人——を活用し、最初の50人の顧客を獲得した。その後、「ポッドキャスト編集」「ポッドキャスト制作ツール」などのキーワードで大量の記事を書き始めた。これらの記事が現在の顧客獲得の主力となっている。さらにアフィリエイトマーケティング——初期には新規顧客の30%が提携ブログからの紹介だった。AI検索が台頭し、多くの人がコンテンツマーケティングは死んだと言っている。Colinは鼻で笑う：「でたらめだ。コンテンツは形を変えただけ——動画も音声もやらなければならないが、テキストも依然として有効だ。そもそもAIコンテンツだって人間のブログから学習するんじゃないのか？」彼はRedditでも活発で、定期的にAMAを行っている。これは直接ユーザーとつながるだけでなく、AI検索エンジンにデータを供給することにもなる——RedditのコンテンツはAIの大好物だ。最も興味深いのは——多くの人が記事を通じてAlituを知ったと言うが、実際にお金を払ったのは彼のポッドキャストを聴いたりYouTube動画を見たりしたからだという。「記事は検索トラフィックをもたらす。しかしユーザーに信頼してもらえるのは、あなたの声や姿を通してだ」。ポッドキャストは特に重要だ。「ユーザーが1〜2時間もあなたの話を聴くことで生まれる信頼感は、どんな広告でも買えない」"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "最も重要な教訓"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Colinは言う、ここ数年で学んだ最も重要な教訓は：「小さく、速く作れ」。新機能を開発する時は必ず自問する：これの最もシンプルなバージョンは何か？1ヶ月、いや2週間で作れるか？作り終えたら公開し、ユーザーのフィードバックを得てから次のステップを決める。「あまりにも多くの人が壮大な構想を抱き、半年経ってもまだ『完璧な開発』の真っ最中だ」。彼はゲーム会社Sierraの創業者Ken Williamsの言葉を引用する：「1時間の仕事は本当に1時間で終わる。4時間の仕事は丸1日かかる。1日の仕事は1週間かかる。1週間の仕事は数ヶ月かかる。半年以上の仕事は…基本的に永遠に完成しない」。時間が長ければ長いほど不確実性は大きくなる。2週間の見積もりなら、その中には気づいていない落とし穴がたくさん潜んでいるということだ。Colinは今、開発者が「これには2週間かかります」と言ったら、4〜8時間の小さなタスクに分解させる。分解できない？ならばさらに分解し、各コンポーネントがはっきりと制御可能になるまで続ける。"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "最後に"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "Colinはもう収益目標を設定していないと言う。「以前は毎年目標を立てたが、毎年外れた。コントロールできないことが多すぎる」。今は自分たちがコントロールできることだけに目標を設定している：週に何本のブログを書くか、YouTube動画を何本撮るか、顧客満足度は何点か。「プロセスをコントロールすれば、結果は自然とついてくる」。ところで、Colinは大学で天体物理学を専攻していた。後に数学が難しすぎて転向した。人生の寄り道は、時にあなたを本来行くべき場所へと導いてくれるのだ。"
+      }
+    ]
+  },
+  "content_ar": {
+    "ops": [
+      {
+        "insert": "صانع بودكاست بالصدفة يبني منصة SaaS للبودكاست تدر مليون دولار سنويا"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "لم يتخيل Colin Gray أبدا أنه سيكسب المال من البودكاست."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "ولم يتخيل أبدا أن هذه الصدفة ستجلب له مليون دولار سنويا."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "قصته تبدو وكأنها نكتة - مدرس وسائط متعددة في جامعة إدنبرة، طلب منه قسمه فجأة: هل يمكنك إلقاء نظرة على هذا الشيء الجديد المسمى بودكاست؟ فوقع في حبه إلى الأبد وسقط في جحر أرنب البودكاست."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "أحيانا، تأتي نقاط التحول في الحياة من العدم بهذا الشكل الغريب."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "في عام 2014، كان Colin لا يزال يصمم دورات عبر الإنترنت لجامعة إدنبرة. في أحد الأيام، ألقى رئيس القسم عليه مهمة: ابحث في البودكاست وانظر إذا كان يمكن استخدامه في التدريس. كان رد فعل Colin الداخلي على الأرجح: حسنا، مهمة مملة أخرى. لكن عندما انخرط فعلا في البودكاست، أصيب بالذهول. شخص واحد، ميكروفون واحد، ويمكنك بث صوتك إلى العالم كله. تلك الحميمية، تلك الشخصية، حرية المشاركة في أي وقت ومن أي مكان - شعر Colin وكأنه اكتشف قارة جديدة. بدأ فورا في كتابة مدونة توثق رحلة تعلمه للبودكاست - من اختيار المعدات وتقنيات التسجيل إلى تدريب الصوت. كان اسم المدونة مباشرا: ThePodcastHost.com. بصراحة، لم يفكر أبدا في ذلك الوقت أن هذا الشيء يمكن أن يجلب المال. كان يعتقد فقط: هذا ممتع جدا!"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "من 3,000 دولار إلى مليون دولار"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "استمرت المدونة لمدة سنتين أو ثلاث سنوات. تدريجيا، بدأ الجمهور يتشكل وبدأ الدخل في التدفق - التسويق بالعمولة (بيع الميكروفونات والمعدات) والرعاية. كان الدخل الشهري حوالي 3,000 دولار. بالنسبة لـColin في ذلك الوقت، كان هذا مالا يأتي من العدم. لكنه لم يتوقف. بدأ في تقديم دورات عبر الإنترنت لتعليم الناس كيفية صنع البودكاست. ثم أضاف خدمات الإنتاج - مساعدة الناس في تحرير الصوت وإضافة الموسيقى وضبط جودة الصوت. ثم جاء المشهد الأكثر دراماتيكية. بدأ القراء يسألونه بجنون: هل هناك أداة يمكنها إنشاء بودكاست بنقرة واحدة؟ هل يمكن أتمتة تلاشي الموسيقى وإلغاء الضوضاء وتوازن مستوى الصوت؟ أدرك Colin أن هذه هي نقطة الألم الحقيقية. فقرر بناء منتج SaaS: Alitu. أداة إنتاج بودكاست سهلة الاستخدام. سجل الصوت، ارفعه، وسيتولى النظام تلقائيا كل ما بعد الإنتاج. يصف Colin منتج Alitu بأنه مدرب البودكاست. بدلا من إغراق المستخدمين بخيارات معقدة، يخبرهم: افعلها بهذه الطريقة، أبسط طريقة. يقول Colin: ما يحتاجه المبدعون ليس المزيد من الميزات، بل خيارات أقل. اليوم، يخدم Alitu 2,500 عميل بإيرادات سنوية تقترب من مليون دولار. بالإضافة إلى مجتمع صغير يسمى Podcraft Academy يجلب 100,000 دولار سنويا."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "درس بقيمة 100,000 دولار اشتريته بالدم والدموع"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "لكن هذا الطريق لم يكن سهلا. في البداية، أنفق Colin 25,000 دولار لتوظيف شخص لبناء نموذج أولي. كانت النتيجة قبيحة للغاية. كان عليك استخدام سطر الأوامر لتشغيله، وكانت الواجهة سيئة لدرجة أنني لم أرغب في لمسها بنفسي. ثم استثمر 80,000 دولار أخرى وقضى عاما كاملا قبل الحصول على نسخة تجريبية قابلة للاستخدام. ما مجموعه 100,000 دولار قبل أن يرى منتجه يعمل فعلا. كل دولار من هذه الـ100,000 جاء من إيرادات مدونته. يقول: كانت تلك الفترة عبارة عن تغذية مشروع برمجي من عمل المحتوى. المثير للاهتمام أن Colin ليس لديه خلفية تقنية. لا يعرف البرمجة على الإطلاق، لكنه تمكن من بناء منتج من خلال التوظيف والتجربة والخطأ والمزيد من التوظيف. في معظم الأوقات، لا تحتاج إلى معرفة كيفية كتابة الكود. تحتاج إلى معرفة كيفية العثور على الأشخاص المناسبين."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "فلسفة منتج معاكسة للحدس"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "فلسفة منتج Alitu مثيرة للاهتمام، بل ومعاكسة للتيار السائد. المنافسون يواصلون الإضافة - المزيد من الميزات، المزيد من الخيارات، المزيد من الإعدادات. أما Alitu فيواصل الطرح. يقول Colin: يطلب المستخدمون المزيد من الميزات كل يوم. لكن موقفنا ثابت: نريد تعليمهم أبسط سير عمل، وليس إغراقهم في التعقيد حتى يحترقوا. نصيحته للمبدعين: القيود هي في الواقع حرية. عندما تقل الخيارات، يصبح الإبداع مستداما. لهذا السبب فإن تسعير Alitu بسيط - اشتراك واحد يغطي جميع الميزات بدون حدود. من 28 دولارا شهريا في البداية، إلى 32، والآن 38 دولارا. سأكون صادقا، عندما رفعنا من 32 إلى 38، انخفضت التسجيلات بالفعل. لكن الإيرادات لم تتغير كثيرا - كنا فقط نخدم عددا أقل من الناس. على المدى الطويل، أعتقد أنه قد يكون خسارة صافية - عدد أقل من المستخدمين يعني عددا أقل من معجبي العلامة التجارية. ينصح رواد الأعمال: ابحث في التسعير مبكرا. لا تؤجله مثلما فعلنا، فتكلفة التغيير هائلة."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "حقيقة التسويق بالمحتوى"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "نمو Alitu يعتمد كليا على التسويق بالمحتوى. عند الإطلاق في 2016، استفاد Colin من قائمة البريد الإلكتروني التي بناها على مدى سنوات - 10,000 شخص، محولا إياهم إلى أول 50 عميلا. لاحقا، بدأ في كتابة مقالات كثيفة حول كلمات مفتاحية مثل تحرير البودكاست وأدوات إنتاج البودكاست. هذه المقالات هي الآن العمود الفقري لاكتساب العملاء. بالإضافة إلى التسويق بالعمولة - في البداية، كان 30% من العملاء الجدد يأتون من توصيات المدونات الشريكة. مع صعود البحث بالذكاء الاصطناعي، يقول الكثيرون إن التسويق بالمحتوى قد مات. يسخر Colin من هذا: هراء. المحتوى فقط تغير شكله - عليك عمل الفيديو والصوت أيضا، لكن النص ما زال فعالا. ثم ألا يحتاج محتوى الذكاء الاصطناعي إلى مدونات بشرية ليتعلم منها؟ إنه نشط أيضا على Reddit، ويقوم بجلسات AMA منتظمة. هذا لا يتصل مباشرة بالمستخدمين فحسب، بل يغذي محركات بحث الذكاء الاصطناعي - محتوى Reddit هو الطعام المفضل للذكاء الاصطناعي. الملاحظة الأكثر إثارة للاهتمام: يقول الكثيرون إنهم عرفوا Alitu من خلال المقالات، لكنهم دفعوا فعلا لأنهم استمعوا إلى بودكاسته أو شاهدوا فيديوهاته على YouTube. المقالات تجلب زوار البحث، لكن ما يجعل المستخدمين يثقون بك هو سماعك ورؤيتك. البودكاست مهم بشكل خاص. عندما يقضي المستخدمون ساعة أو ساعتين في الاستماع إليك تتحدث، فإن هذا المستوى من الثقة لا يمكن لأي إعلان شراؤه."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "أهم درس"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "يقول Colin إن أكبر درس تعلمه بعد كل هذه السنوات: ابن صغيرا، ابن سريعا. في كل مرة تطور ميزة جديدة، اسأل نفسك: ما هي أبسط نسخة من هذا؟ هل يمكن إنجازها في شهر، أو حتى أسبوعين؟ انتهيت؟ ارفعها، دع المستخدمين يقدمون ملاحظاتهم، ثم قرر الخطوة التالية. الكثير من الناس يتصورون شيئا عظيما، وبعد ستة أشهر ما زالوا في وضع التطوير المثالي. يقتبس كلمات Ken Williams، مؤسس شركة الألعاب Sierra: العمل الذي يستغرق ساعة ينجز فعلا في ساعة. العمل الذي يستغرق أربع ساعات ينجز في يوم كامل. عمل يوم ينجز في أسبوع. عمل أسبوع ينجز في أشهر. أي شيء أكثر من ستة أشهر... في الأساس لا ينجز أبدا. كلما طال الجدول الزمني، زادت حالة عدم اليقين. إذا كان التقدير أسبوعين، فهذا يعني أن هناك فخاخا مخفية لم تتعرف عليها بعد. الآن يطلب Colin من المطورين تفكيك أي مهمة تستغرق أسبوعين إلى مهام فرعية من 4-8 ساعات. لا تستطيع تفكيكها؟ فككها أكثر، حتى يصبح كل مكون واضحا وقابلا للتحكم."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "كلمات أخيرة"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": "يقول Colin إنهم لم يعودوا يضعون أهدافا للإيرادات. كنا نضع أهدافا كل عام، وكل عام كنا نفشل في تحقيقها. هناك الكثير من الأشياء خارج سيطرتك. الآن يضعون أهدافا فقط للأشياء التي يمكنهم التحكم فيها: كم عدد المقالات في الأسبوع، كم عدد فيديوهات YouTube، درجة رضا العملاء. تحكم في العملية، وستأتي النتائج بشكل طبيعي. بالمناسبة، درس Colin الفيزياء الفلكية في الجامعة. ثم غير تخصصه لأن الرياضيات كانت صعبة جدا. أحيانا، الالتفافات في الحياة هي بالضبط ما يقودك إلى حيث من المفترض أن تكون."
+      }
+    ]
+  },
+  "custServSkills": "",
+  "YoutubeURL": "",
+  "H5GameURL": "",
+  "ifShow": true,
+  "category": 3,
+  "tag": [
+    "创业",
+    "SaaS",
+    "独立开发者"
+  ],
+  "userPayUnionid": [],
+  "userPayEmail": [],
+  "publicAccountArticleURL": "",
+  "viewCount": 0,
+  "ifSticky": false,
+  "ifStickyForWebsite": false,
+  "ifShowButton": false,
+  "ifShowResInfo": false,
+  "ResInfo": "",
+  "Pricing": 0,
+  "HowToObtainResources": 4
+}
